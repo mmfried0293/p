@@ -1,0 +1,19 @@
+div .container{
+    position: relative;
+    margin: 5%;
+}
+p{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+h1{
+    padding-top: 0%;
+    padding-left: 50px;
+}
+table{
+    border: 3px;
+    border-style:double;
+    border-color:brown;
+    border-spacing: 5px;
+    margin: 50%;
+}
